@@ -1,3 +1,7 @@
+Program Discription: UPD segment simulation; the program stimulates the process
+of transmitting a message in a UPD segment on a client-server based network 
+communication program.
+
 To compile:
        server:
               make server
